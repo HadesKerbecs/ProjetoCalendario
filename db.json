@@ -1,0 +1,25 @@
+{
+    "eventos": [
+        {
+            "descricao": "Estudar React",
+            "inicio": "2025-01-28T09:00",
+            "fim": "2025-01-28T13:00",
+            "completo": false,
+            "id": 101
+        },
+        {
+            "descricao": "Estudar Typescript",
+            "inicio": "2025-01-29T10:00",
+            "fim": "2025-01-29T13:00",
+            "completo": false,
+            "id": 102
+        },
+        {
+            "descricao": "Estudar Recoil",
+            "inicio": "2025-01-27T09:00",
+            "fim": "2025-01-27T11:00",
+            "completo": true,
+            "id": 103
+        }
+    ]
+}
